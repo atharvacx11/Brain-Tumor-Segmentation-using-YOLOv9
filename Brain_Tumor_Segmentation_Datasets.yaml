@@ -1,0 +1,6 @@
+names:
+- Tumor
+nc: 1
+path: datasets/Brain_Tumor_Segmentation_Datasets
+train: train/images
+val: valid/images
